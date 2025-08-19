@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Sila Pilih Jenis Pengguna Anda",
+    "subtitle": "Pilih bagaimana anda ingin meneruskan. Anda boleh menukar peranan kemudian di Tetapan.",
+    "chips": {
+      "tasks": "Tugasan",
+      "rewards": "Ganjaran",
+      "familySafe": "Keselamatan Keluarga"
+    },
+    "info": "Aplikasi ini membantu kanak-kanak menyiapkan tugasan harian, mengumpul mata, dan menebus ganjaran. Ibu bapa mencipta tugasan & ganjaran, manakala kanak-kanak kekal bermotivasi dengan pengalaman yang menyeronokkan.",
+    "cards": {
+      "parent": {
+        "title": "Ibu Bapa",
+        "desc": "Urus tugasan, tetapkan ganjaran, dan jejak kemajuan."
+      },
+      "child": {
+        "title": "Anak",
+        "desc": "Selesaikan tugasan, kumpul mata, dan tebus ganjaran."
+      },
+      "guest": {
+        "title": "Tetamu",
+        "desc": "Cuba aplikasi tanpa pendaftaran."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Privasi anda penting.",
+      "privacyAction": "Anda boleh memadam data anda bila-bila masa."
+    }
+  }
+}

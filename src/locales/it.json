@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Seleziona il tuo tipo di utente",
+    "subtitle": "Scegli come desideri continuare. Puoi cambiare ruolo più tardi nelle Impostazioni.",
+    "chips": {
+      "tasks": "Compiti",
+      "rewards": "Ricompense",
+      "familySafe": "Sicurezza familiare"
+    },
+    "info": "Questa app aiuta i bambini a completare i compiti quotidiani, guadagnare punti e riscattare ricompense. I genitori creano compiti e ricompense, mentre i bambini rimangono motivati con un'esperienza ludica.",
+    "cards": {
+      "parent": {
+        "title": "Genitore",
+        "desc": "Gestisci i compiti, imposta ricompense e monitora i progressi."
+      },
+      "child": {
+        "title": "Bambino",
+        "desc": "Completa i compiti, guadagna punti e riscatta ricompense."
+      },
+      "guest": {
+        "title": "Ospite",
+        "desc": "Prova l'app senza registrazione."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "La tua privacy è importante.",
+      "privacyAction": "Puoi eliminare i tuoi dati in qualsiasi momento."
+    }
+  }
+}

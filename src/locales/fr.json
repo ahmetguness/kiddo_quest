@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Veuillez sélectionner votre type d'utilisateur",
+    "subtitle": "Choisissez comment vous souhaitez continuer. Vous pourrez changer de rôle plus tard dans les paramètres.",
+    "chips": {
+      "tasks": "Tâches",
+      "rewards": "Récompenses",
+      "familySafe": "Sécurité familiale"
+    },
+    "info": "Cette application aide les enfants à accomplir leurs tâches quotidiennes, à gagner des points et à échanger des récompenses. Les parents créent des tâches et des récompenses, tandis que les enfants restent motivés grâce à une expérience ludique.",
+    "cards": {
+      "parent": {
+        "title": "Parent",
+        "desc": "Gérez les tâches, définissez les récompenses et suivez les progrès."
+      },
+      "child": {
+        "title": "Enfant",
+        "desc": "Accomplis des tâches, gagne des points et échange des récompenses."
+      },
+      "guest": {
+        "title": "Invité",
+        "desc": "Essayez l'application sans inscription."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Votre vie privée compte.",
+      "privacyAction": "Vous pouvez supprimer vos données à tout moment."
+    }
+  }
+}

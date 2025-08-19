@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Lütfen Kullanıcı Tipinizi Seçin",
+    "subtitle": "Nasıl devam etmek istediğinizi seçin. Ayarlar’dan daha sonra rol değiştirebilirsiniz.",
+    "chips": {
+      "tasks": "Görevler",
+      "rewards": "Ödüller",
+      "familySafe": "Aile Güvenliği"
+    },
+    "info": "Bu uygulama çocukların günlük görevleri tamamlayıp puan kazanmasını ve bu puanlarla ödüller almasını sağlar. Ebeveynler görev ve ödülleri oluşturur; çocuklar eğlenceli, oyunlaştırılmış deneyimle motive kalır.",
+    "cards": {
+      "parent": {
+        "title": "Ebeveyn",
+        "desc": "Görevleri yönet, ödüller belirle, ilerlemeyi takip et."
+      },
+      "child": {
+        "title": "Çocuk",
+        "desc": "Görevleri tamamla, puan kazan, ödüllerle değiştir."
+      },
+      "guest": {
+        "title": "Misafir",
+        "desc": "Kayıt olmadan dene."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Gizliliğiniz önemlidir.",
+      "privacyAction": "Verilerinizi istediğiniz zaman silebilirsiniz."
+    }
+  }
+}

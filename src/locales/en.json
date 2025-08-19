@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Please Select Your User Type",
+    "subtitle": "Choose how you want to continue. You can switch roles later in Settings.",
+    "chips": {
+      "tasks": "Tasks",
+      "rewards": "Rewards",
+      "familySafe": "Family Safe"
+    },
+    "info": "This app helps children complete daily tasks, earn points, and redeem rewards. Parents create tasks & rewards, while children stay motivated with a fun, gamified experience.",
+    "cards": {
+      "parent": {
+        "title": "Parent",
+        "desc": "Manage tasks, set rewards, and track progress."
+      },
+      "child": {
+        "title": "Child",
+        "desc": "Complete tasks, earn points, and redeem rewards."
+      },
+      "guest": {
+        "title": "Guest",
+        "desc": "Try the app without registration."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Your privacy matters.",
+      "privacyAction": "You can delete your data anytime."
+    }
+  }
+}

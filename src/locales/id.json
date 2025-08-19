@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Silakan Pilih Tipe Pengguna Anda",
+    "subtitle": "Pilih bagaimana Anda ingin melanjutkan. Anda dapat mengganti peran nanti di Pengaturan.",
+    "chips": {
+      "tasks": "Tugas",
+      "rewards": "Hadiah",
+      "familySafe": "Keamanan Keluarga"
+    },
+    "info": "Aplikasi ini membantu anak-anak menyelesaikan tugas harian, mendapatkan poin, dan menukarkan hadiah. Orang tua membuat tugas & hadiah, sementara anak-anak tetap termotivasi dengan pengalaman yang menyenangkan.",
+    "cards": {
+      "parent": {
+        "title": "Orang Tua",
+        "desc": "Kelola tugas, tetapkan hadiah, dan lacak kemajuan."
+      },
+      "child": {
+        "title": "Anak",
+        "desc": "Selesaikan tugas, dapatkan poin, dan tukarkan hadiah."
+      },
+      "guest": {
+        "title": "Tamu",
+        "desc": "Coba aplikasi tanpa registrasi."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Privasi Anda penting.",
+      "privacyAction": "Anda dapat menghapus data Anda kapan saja."
+    }
+  }
+}

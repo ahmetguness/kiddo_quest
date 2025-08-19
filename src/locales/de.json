@@ -1,0 +1,30 @@
+{
+  "selection": {
+    "title": "Bitte wählen Sie Ihren Benutzertyp",
+    "subtitle": "Wählen Sie, wie Sie fortfahren möchten. Sie können die Rolle später in den Einstellungen ändern.",
+    "chips": {
+      "tasks": "Aufgaben",
+      "rewards": "Belohnungen",
+      "familySafe": "Familiensicherheit"
+    },
+    "info": "Diese App hilft Kindern, tägliche Aufgaben zu erledigen, Punkte zu sammeln und Belohnungen einzulösen. Eltern erstellen Aufgaben & Belohnungen, während Kinder durch ein spielerisches Erlebnis motiviert bleiben.",
+    "cards": {
+      "parent": {
+        "title": "Elternteil",
+        "desc": "Verwalten Sie Aufgaben, legen Sie Belohnungen fest und verfolgen Sie den Fortschritt."
+      },
+      "child": {
+        "title": "Kind",
+        "desc": "Erledige Aufgaben, sammle Punkte und löse Belohnungen ein."
+      },
+      "guest": {
+        "title": "Gast",
+        "desc": "Testen Sie die App ohne Registrierung."
+      }
+    },
+    "footer": {
+      "privacyPrefix": "Ihre Privatsphäre ist wichtig.",
+      "privacyAction": "Sie können Ihre Daten jederzeit löschen."
+    }
+  }
+}
